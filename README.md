@@ -1,1 +1,1 @@
-# BPMSchool
+# mySchool
